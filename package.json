@@ -1,0 +1,8 @@
+{
+  "name": "ts-common",
+  "version": "1.0.0",
+  "description": "QuanLe's common utilities for typescript",
+  "dependencies": {
+  },
+  "devDependencies": {}
+}
